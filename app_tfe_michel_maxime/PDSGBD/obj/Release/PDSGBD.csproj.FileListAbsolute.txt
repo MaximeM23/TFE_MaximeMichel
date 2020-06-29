@@ -1,0 +1,6 @@
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\bin\Release\PDSGBD.dll
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\bin\Release\PDSGBD.pdb
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\bin\Release\MySql.Data.dll
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\obj\Release\PDSGBD.dll
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\obj\Release\PDSGBD.pdb
+C:\Users\maxou\Desktop\Bac_informatique\TFE\Application\app_tfe_michel_maxime\PDSGBD\obj\Release\PDSGBD.csprojResolveAssemblyReference.cache
